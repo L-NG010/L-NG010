@@ -70,17 +70,6 @@ console.log("Hello World! 🌍");
 
 ---
 
-## 🎨 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=L-NG010&repo=your-awesome-project&theme=tokyonight)](https://github.com/L-NG010/your-awesome-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=L-NG010&repo=another-cool-project&theme=tokyonight)](https://github.com/L-NG010/another-cool-project)
-
-</div>
-
----
-
 ## 🌈 Fun Zone
 
 <div align="center">
