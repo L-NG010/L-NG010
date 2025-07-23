@@ -16,8 +16,8 @@
 ```javascript
 const developer = {
     name: "L-NG010",
-    passion: "Frontend Development",
-    currentFocus: "HTML & Modern Web Technologies",
+    passion: "Backend Development",
+    currentFocus: "Laravel, React, Next, Flutter",
     mindset: "Continuous Learning",
     status: "Building amazing web experiences ✨"
 };
@@ -26,11 +26,12 @@ console.log("Hello World! 🌍");
 ```
 
 🔥 **What I'm all about:**
-- 🎨 **Frontend Enthusiast** - Crafting beautiful user interfaces
-- 📚 **Current Journey** - Mastering HTML and expanding to CSS & JavaScript
-- 🌱 **Growth Mindset** - Always learning, always improving
-- 💡 **Innovation** - Love exploring new technologies and trends
-- 🤝 **Collaboration** - Open to exciting projects and partnerships
+- 🎨 **Frontend Enthusiast** - Crafting beautiful user interfaces with HTML, CSS & JavaScript  
+- 🛠️ **Backend Explorer** - Passionate about building robust APIs and server-side logic using Laravel & Node.js  
+- 📚 **Current Journey** - Diving deeper into React, Next.js, and exploring database optimization  
+- 🌱 **Growth Mindset** - Continuously learning and expanding both frontend and backend capabilities  
+- 💡 **Innovation** - Love discovering tech trends and applying modern solutions to real-world problems  
+- 🤝 **Collaboration** - Open to teaming up on meaningful web projects and freelance opportunities  
 
 ---
 
