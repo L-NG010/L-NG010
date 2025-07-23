@@ -3,7 +3,7 @@
 <div align="center">
   
   <!-- Animated typing effect -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+L-NG010+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;Always+Learning+%F0%9F%9A%80;Welcome+to+my+profile!+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+L-NG010+%F0%9F%91%8B;Backend+Developer+%F0%9F%92%BB;Always+Learning+%F0%9F%9A%80;Welcome+to+my+profile!+%E2%9C%A8" alt="Typing SVG" />
   
 </div>
 
@@ -93,17 +93,17 @@ console.log("Hello World! 🌍");
 
 ### 💬 Reach out to me!
 
-<a href="https://linkedin.com/in/your-linkedin">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://wa.me/6281216240720">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
-<a href="https://twitter.com/your-twitter">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+<a href="https://t.me/lnater">
+  <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
-<a href="mailto:your-email@example.com">
+<a href="https://instagram.com/lnatanegara">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="mailto:langnatanegara73@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://your-portfolio.com">
-  <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
 </a>
 
 ### 📫 Fun Ways to Connect:
