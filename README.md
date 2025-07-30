@@ -20,7 +20,7 @@ const developer = {
     status: "Building amazing web experiences ✨"
 };
 
-console.log(developer);
+console.log("Hello World🌏👋");
 ```
 
 🔥 **What I'm all about:**
