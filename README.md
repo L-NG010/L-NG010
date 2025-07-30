@@ -62,11 +62,6 @@ console.log("Hello World🌏👋");
   
 </div>
 
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=L-NG010&theme=tokyonight)
-  
-</div>
 
 ---
 
