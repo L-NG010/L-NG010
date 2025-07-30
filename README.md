@@ -70,10 +70,7 @@ console.log("Hello World🌏👋");
 <div align="center">
 
 ### 🎯 Current Mood
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
-
-### 📈 Contribution Graph
-<img src="https://activity-graph.herokuapp.com/graph?username=L-NG010&theme=tokyo-night&hide_border=true&area=true" width="100%">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRsdnlhODVoMjc5dDIzOXExM283Y21xNmF0enptMjFoM3pkOWtpaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ThrM4jEi2lBxd7X2yz/giphy.gif" width="300">
 
 ### 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=L-NG010&theme=tokyonight&no-frame=true&row=1&column=7" width="100%">
