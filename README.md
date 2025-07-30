@@ -11,8 +11,6 @@
 
 ## 🎯 About Me
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" height="250" />
-
 ```javascript
 const developer = {
     name: "L-NG010",
